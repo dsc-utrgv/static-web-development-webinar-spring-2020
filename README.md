@@ -1,2 +1,5 @@
 # Static Web Development
-Intro to static web development: HTML, CSS, Bootstrap.
+- Lead: Stephany Lopez
+
+
+In this workshop you'll learn how to build a static website using HTML, CSS, and Bootstrap! 
