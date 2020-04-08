@@ -1,5 +1,5 @@
 # Introduction to Web Development
-- [CSS & Website Layout](https://www.google.com)
+- [CSS & Website Layout](https://github.com/dsc-utrgv/intro-to-web-development-series-spring-2020/tree/master/CSS%20%26%20Website%20Layout)
 - JavaScript and the DOM
 - JavaScript MVC Architecture 
 - Web APIs and Angular Applications
