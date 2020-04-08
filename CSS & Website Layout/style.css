@@ -1,0 +1,39 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: Lato;
+    margin-top:3em;
+    background:#fafafa;
+  }
+  
+  h1 {
+    font-weight: 300;
+  }
+  
+  img {
+    height: 250px;
+    width:250px;
+    margin: 5px;
+  }
+  
+  .grid {
+    margin-left:200px;
+    margin-bottom:100px;
+  }
+  
+  #logo {
+    height: 150px;
+    width: 150px;
+    margin-right:20px;
+  }
+  
+  .profile {
+      margin:50px 100px 50px 100px;
+  }
+  
+  @media (max-width: 712px) {
+    img {
+      height:150px;
+      width: 150px;
+    }
+  }
