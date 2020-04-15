@@ -1,0 +1,53 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: Lato;
+    margin-top:3em;
+    background:#fafafa;
+  }
+  
+  h1 {
+    font-weight: 300;
+  }
+  
+  img {
+    height: 250px;
+    width:250px;
+    margin: 5px;
+  }
+  
+  .grid {
+    display: grid;
+    grid-template-columns: 270px 270px 270px;
+    grid-template-rows: 270px 270px 270px;
+    grid-gap: 10px 10px;
+    margin-left:150px;
+    margin-bottom:100px;
+  }
+
+  .grid-container {
+    height: 260px;
+    width: 260px;
+  }
+
+
+  .active {
+    box-shadow: 0 0 30px rgb(103, 156, 230);
+  }
+  
+  #logo {
+    height: 150px;
+    width: 150px;
+    margin-right:20px;
+  }
+  
+  .profile {
+      margin:50px 100px 50px 100px;
+  }
+  
+  @media (max-width: 712px) {
+    img {
+      height:150px;
+      width: 150px;
+    }
+  }
